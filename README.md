@@ -1,4 +1,6 @@
-<p align="left">Hello! I'm Cosmella. i code stuff</p>
+###
+
+<p align="center">Hello! I'm Cosmella. i code stuff</p>
 
 ###
 
@@ -45,8 +47,3 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cosmella-v&radius=16&theme=chartreuse-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
